@@ -1,0 +1,2 @@
+Number_of_items,Total_cost,Date
+10,11000,2021-01-03

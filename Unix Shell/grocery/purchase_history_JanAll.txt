@@ -1,0 +1,5 @@
+Product,Customer,Date,Category,amt
+Nylon V Neck,Rakesh,2020-01-02,Shirt,799.00
+Nylon Y Neck,Ramesh,2020-01-02,Shirt,799.00
+Nylon Z Neck,Rajesh,2020-01-02,Shirt,899.00
+Nylon Z Neck,Rajesh,2020-01-03,Shirt,699.00
